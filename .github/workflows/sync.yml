@@ -16,7 +16,7 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images.yaml
           version: latest
-          proc: 20
+          proc: 1
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
