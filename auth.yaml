@@ -1,0 +1,6 @@
+docker.io:
+  username: yinjiayi
+  password: ${DOCKER_HUB_PASSWORD}
+hub.oepkgs.net:
+  username: jiayi
+  password: ${OEPKGS_HUB_PASSWORD}
