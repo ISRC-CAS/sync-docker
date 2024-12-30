@@ -16,7 +16,7 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images-gcr.yaml
           version: latest
-          proc: 5
+          proc: 1
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
@@ -30,7 +30,7 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images-nvcr.yaml
           version: latest
-          proc: 5
+          proc: 1
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
@@ -44,7 +44,7 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images-quay.yaml
           version: latest
-          proc: 5
+          proc: 1
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
@@ -58,7 +58,7 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images-ghcr.yaml
           version: latest
-          proc: 5
+          proc: 1
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
@@ -72,7 +72,7 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images-docker-a-i.yaml
           version: latest
-          proc: 5
+          proc: 1
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
@@ -86,7 +86,7 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images-docker-j-n.yaml
           version: latest
-          proc: 5
+          proc: 1
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
@@ -100,7 +100,7 @@ jobs:
           auth_file: ./auth.yaml
           images_file: ./images-docker-o-z.yaml
           version: latest
-          proc: 5
+          proc: 1
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
