@@ -1,0 +1,13 @@
+quay.io/aipipeline/pipelineloop-controller: hub.oepkgs.net/oedeploy/quay.io/aipipeline/pipelineloop-controller
+quay.io/aipipeline/pipelineloop-webhook: hub.oepkgs.net/oedeploy/quay.io/aipipeline/pipelineloop-webhook
+quay.io/argoproj/argocli: hub.oepkgs.net/oedeploy/quay.io/argoproj/argocli
+quay.io/argoproj/workflow-controller: hub.oepkgs.net/oedeploy/quay.io/argoproj/workflow-controller
+quay.io/bentoml/yatai-deployment: hub.oepkgs.net/oedeploy/quay.io/bentoml/yatai-deployment
+quay.io/bentoml/yatai-image-builder: hub.oepkgs.net/oedeploy/quay.io/bentoml/yatai-image-builder
+quay.io/datashim-io/csi-s3: hub.oepkgs.net/oedeploy/quay.io/datashim-io/csi-s3
+quay.io/dexidp/dex: hub.oepkgs.net/oedeploy/quay.io/dexidp/dex
+quay.io/jetstack/cert-manager-cainjector: hub.oepkgs.net/oedeploy/quay.io/jetstack/cert-manager-cainjector
+quay.io/jetstack/cert-manager-controller: hub.oepkgs.net/oedeploy/quay.io/jetstack/cert-manager-controller
+quay.io/jetstack/cert-manager-webhook: hub.oepkgs.net/oedeploy/quay.io/jetstack/cert-manager-webhook
+quay.io/kuberay/operator: hub.oepkgs.net/oedeploy/quay.io/kuberay/operator
+quay.io/oauth2-proxy/oauth2-proxy: hub.oepkgs.net/oedeploy/quay.io/oauth2-proxy/oauth2-proxy

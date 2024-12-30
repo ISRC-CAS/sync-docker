@@ -1,0 +1,9 @@
+docker.io/bentoml/fraud_detection: hub.oepkgs.net/oedeploy/docker.io/bentoml/fraud_detection
+docker.io/bitnami/kubectl: hub.oepkgs.net/oedeploy/docker.io/bitnami/kubectl
+docker.io/bitnami/kubectl_amd64: hub.oepkgs.net/oedeploy/docker.io/bitnami/kubectl_amd64
+docker.io/bitnami/kubectl_arm64: hub.oepkgs.net/oedeploy/docker.io/bitnami/kubectl_arm64
+docker.io/chrislusf/seaweedfs: hub.oepkgs.net/oedeploy/docker.io/chrislusf/seaweedfs
+docker.io/grafana/grafana: hub.oepkgs.net/oedeploy/docker.io/grafana/grafana
+docker.io/istio/install-cni: hub.oepkgs.net/oedeploy/docker.io/istio/install-cni
+docker.io/istio/pilot: hub.oepkgs.net/oedeploy/docker.io/istio/pilot
+docker.io/istio/proxyv2: hub.oepkgs.net/oedeploy/docker.io/istio/proxyv2

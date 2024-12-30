@@ -1,0 +1,7 @@
+docker.io/prom/prometheus: hub.oepkgs.net/oedeploy/docker.io/prom/prometheus
+docker.io/pytorch/torchserve-kfs: hub.oepkgs.net/oedeploy/docker.io/pytorch/torchserve-kfs
+docker.io/rayproject/ray: hub.oepkgs.net/oedeploy/docker.io/rayproject/ray
+docker.io/seldonio/echo-model: hub.oepkgs.net/oedeploy/docker.io/seldonio/echo-model
+docker.io/seldonio/mlserver: hub.oepkgs.net/oedeploy/docker.io/seldonio/mlserver
+docker.io/seldonio/seldon-core-operator: hub.oepkgs.net/oedeploy/docker.io/seldonio/seldon-core-operator
+docker.io/tensorflow/serving: hub.oepkgs.net/oedeploy/docker.io/tensorflow/serving
