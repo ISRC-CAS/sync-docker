@@ -104,3 +104,31 @@ jobs:
         env:
           OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
           DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
+  sync-verify-images-quay:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - uses: isrc-cas/image-sync-action@main
+        with:
+          auth_file: ./auth.yaml
+          images_file: ./verify-images-quay.yaml
+          version: latest
+          proc: 1
+        env:
+          OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
+          DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
+  sync-verify-images-nvcr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - uses: isrc-cas/image-sync-action@main
+        with:
+          auth_file: ./auth.yaml
+          images_file: ./verify-images-nvcr.yaml
+          version: latest
+          proc: 1
+        env:
+          OEPKGS_HUB_PASSWORD: ${{ secrets.OEPKGS_HUB_PASSWORD }}
+          DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
