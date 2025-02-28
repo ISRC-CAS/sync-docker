@@ -4,3 +4,6 @@ docker.io:
 hub.oepkgs.net:
   username: jiayi
   password: ${OEPKGS_HUB_PASSWORD}
+forgestash.verify.oepkgs.net:
+  username: admin
+  password: ${OEPKGS_VERIFY_PASSWORD}
