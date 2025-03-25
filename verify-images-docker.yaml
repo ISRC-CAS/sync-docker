@@ -1,0 +1,9 @@
+docker.io/bentoml/fraud_detection: forgestash.verify.oepkgs.net/docker.io/bentoml/fraud_detection
+docker.io/bitnami/kubectl: forgestash.verify.oepkgs.net/docker.io/bitnami/kubectl
+docker.io/bitnami/kubectl_amd64: forgestash.verify.oepkgs.net/docker.io/bitnami/kubectl_amd64
+docker.io/bitnami/kubectl_arm64: forgestash.verify.oepkgs.net/docker.io/bitnami/kubectl_arm64
+docker.io/chrislusf/seaweedfs: forgestash.verify.oepkgs.net/docker.io/chrislusf/seaweedfs
+docker.io/grafana/grafana: forgestash.verify.oepkgs.net/docker.io/grafana/grafana
+docker.io/istio/install-cni: forgestash.verify.oepkgs.net/docker.io/istio/install-cni
+docker.io/istio/pilot: forgestash.verify.oepkgs.net/docker.io/istio/pilot
+docker.io/istio/proxyv2: forgestash.verify.oepkgs.net/docker.io/istio/proxyv2
