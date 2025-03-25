@@ -1,1 +1,13 @@
-quay.io/oauth2-proxy/oauth2-proxy: forgestash.verify.oepkgs.net/oepkgs-build/oedeploy/quay.io/oauth2-proxy/oauth2-proxy
+quay.io/aipipeline/pipelineloop-controller: forgestash.verify.oepkgs.net/quay.io/aipipeline/pipelineloop-controller
+quay.io/aipipeline/pipelineloop-webhook: forgestash.verify.oepkgs.net/quay.io/aipipeline/pipelineloop-webhook
+quay.io/argoproj/argocli: forgestash.verify.oepkgs.net/quay.io/argoproj/argocli
+quay.io/argoproj/workflow-controller: forgestash.verify.oepkgs.net/quay.io/argoproj/workflow-controller
+quay.io/bentoml/yatai-deployment: forgestash.verify.oepkgs.net/quay.io/bentoml/yatai-deployment
+quay.io/bentoml/yatai-image-builder: forgestash.verify.oepkgs.net/quay.io/bentoml/yatai-image-builder
+quay.io/datashim-io/csi-s3: forgestash.verify.oepkgs.net/quay.io/datashim-io/csi-s3
+quay.io/dexidp/dex: forgestash.verify.oepkgs.net/quay.io/dexidp/dex
+quay.io/jetstack/cert-manager-cainjector: forgestash.verify.oepkgs.net/quay.io/jetstack/cert-manager-cainjector
+quay.io/jetstack/cert-manager-controller: forgestash.verify.oepkgs.net/quay.io/jetstack/cert-manager-controller
+quay.io/jetstack/cert-manager-webhook: forgestash.verify.oepkgs.net/quay.io/jetstack/cert-manager-webhook
+quay.io/kuberay/operator: forgestash.verify.oepkgs.net/quay.io/kuberay/operator
+quay.io/oauth2-proxy/oauth2-proxy: forgestash.verify.oepkgs.net/quay.io/oauth2-proxy/oauth2-proxy
