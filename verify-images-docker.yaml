@@ -7,3 +7,4 @@ docker.io/grafana/grafana: forgestash.verify.oepkgs.net/docker.io/grafana/grafan
 docker.io/istio/install-cni: forgestash.verify.oepkgs.net/docker.io/istio/install-cni
 docker.io/istio/pilot: forgestash.verify.oepkgs.net/docker.io/istio/pilot
 docker.io/istio/proxyv2: forgestash.verify.oepkgs.net/docker.io/istio/proxyv2
+docker.io/library/golang: forgestash.verify.oepkgs.net/docker.io/istio/golang

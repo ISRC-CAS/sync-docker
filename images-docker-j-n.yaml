@@ -47,6 +47,7 @@ docker.io/kubeflownotebookswg/tensorboard-controller: hub.oepkgs.net/oedeploy/do
 docker.io/kubeflownotebookswg/tensorboards-web-app: hub.oepkgs.net/oedeploy/docker.io/kubeflownotebookswg/tensorboards-web-app
 docker.io/kubeflownotebookswg/volumes-web-app: hub.oepkgs.net/oedeploy/docker.io/kubeflownotebookswg/volumes-web-app
 docker.io/library/busybox: hub.oepkgs.net/oedeploy/docker.io/library/busybox
+docker.io/library/golang: hub.oepkgs.net/oedeploy/docker.io/library/golang
 docker.io/library/mysql: hub.oepkgs.net/oedeploy/docker.io/library/mysql
 docker.io/library/postgres: hub.oepkgs.net/oedeploy/docker.io/library/postgres
 docker.io/library/python: hub.oepkgs.net/oedeploy/docker.io/library/python
